@@ -1,4 +1,4 @@
-package transsportstreamcmd
+package transportstreamcmd
 
 import (
 	"fmt"
